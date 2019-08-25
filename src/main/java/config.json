@@ -1,0 +1,10 @@
+{
+  "cloud": false,
+  "cloud_file": "/comments.txt",
+  "local_file": "input/comments.csv",
+  "jdbc_driver": "com.mysql.jdbc.Driver",
+  "db_url": "jdbc:mysql://localhost:3306/Hadoop?useSSL=false",
+  "username": "root",
+  "password": "123456"
+  // 记得将resources/_core_site.xml改回来！！
+}

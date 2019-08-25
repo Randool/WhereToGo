@@ -1,3 +1,8 @@
+# 文件夹
+input/
+target/
+*WordCount/
+
 # Compiled class file
 *.class
 
